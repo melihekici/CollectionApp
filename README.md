@@ -11,10 +11,10 @@
 ![Alt text](./erd.png?raw=true "Entity Relationship Diagram")
 ## Bin Model  
 Bin model has three fields.  
- 
-id: Primary Key 
-latitude: FloatField  
-longitude: FloatField  
+  
+id: Primary Key   
+latitude: FloatField    
+longitude: FloatField    
 
 ### End Points
 
